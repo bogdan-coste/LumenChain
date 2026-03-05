@@ -41,6 +41,7 @@ Developers simply define their project properties and dependencies in a clean XM
         </dependency>
     </dependencies>
 </project>
+```
 
 ## 🏗️ Technical Implementation
 
